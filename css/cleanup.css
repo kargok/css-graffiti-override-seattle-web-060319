@@ -3,3 +3,6 @@
   display:none;
 }
 
+div:last-of-type {
+  display:none;
+}
