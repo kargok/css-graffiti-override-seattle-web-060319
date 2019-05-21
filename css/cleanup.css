@@ -3,6 +3,6 @@
   display:none;
 }
 
-#wall:2-of-type {
+div:first-child {
   display:none;
 }
